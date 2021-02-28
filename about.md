@@ -26,7 +26,9 @@ I have been in several teams responsible for systems such as [Borg](https://rese
 
 # Previously...
 
-From 1998 to 2012, I worked as a software engineer, systems engineer and independent consultant in Italy.
+In 2011, I moved to Switzerland. I worked briefly for a multinational company and a start-up in Zürich.
+
+I come from Italy. I started to work in 1998 and I have been in various roles related to software engineering.
 
 At a point in time, more than 20 banks and several medium-sized companies run software that I wrote.
 
