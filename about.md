@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-My name is Roberto Lupi. I am a software and systems engineer.
+I am a software and systems engineer.
 
 This site contains my opnions and point of view. It does not reflect my current and past employers.
 
