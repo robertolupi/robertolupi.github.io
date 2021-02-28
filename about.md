@@ -14,12 +14,14 @@ This site contains my opnions and point of view. It does not reflect my current 
 I work at Google as a _site reliability engineer_ (SRE) since 2012.
 
 
-I focus on hardware, software and infrastructure co-design for next-generation TPU supercomputers. TPUs are Google's own chips for deep learning and artificial intelligence.
+I focus on hardware, software and infrastructure co-design for next-generation TPU supercomputers. [TPUs](https://cloud.google.com/tpu/) are Google's own chips for deep learning and artificial intelligence.
 
-I work on Machine Learning hardware platforms, both on internally developed hardware and on commercially available accelerators, such as NVIDIA's.
+I support machine learning platforms, both using internally developed hardware and  commercially available accelerators, such as NVIDIA GPUs.
+
+Many of the recent advancements in artificial intelligence happened on hardware platforms that I manage. [Deepmind](https://deepmind.com/) and many other leading AI companies use these systems.
 
 
-I have been in several teams responsible for systems such as Borg ([1](https://research.google/pubs/pub43438/),[2](https://research.google/pubs/pub44843/),[3](https://research.google/pubs/pub49065/)), Google's large-scale cluster scheduler that inspired Kubernetes, [Monarch](https://www.vldb.org/pvldb/vol13/p3181-adams.pdf), the global monitoring system that monitors Google datacenters, and Google's largest internal instance of [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving?hl=en), a serving system for machine learning models.
+I have been in several teams responsible for systems such as [Borg](https://research.google/pubs/pub43438/) ([2](https://research.google/pubs/pub49065/)), Google's large-scale cluster scheduler that inspired [Kubernetes](https://research.google/pubs/pub44843/), [Monarch](https://www.youtube.com/watch?v=LlvJdK1xsl4) ([paper](https://www.vldb.org/pvldb/vol13/p3181-adams.pdf)), the global monitoring system that monitors Google datacenters, and Google's largest internal instance of [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving?hl=en), a serving system for machine learning models.
 
 # Previously...
 
