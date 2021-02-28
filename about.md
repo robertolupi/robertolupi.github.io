@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: post
+date: 2020-02-28
 title: About
 permalink: /about/
 ---
