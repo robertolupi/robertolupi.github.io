@@ -22,7 +22,7 @@ I support machine learning platforms, both using internally developed hardware a
 Many of the recent advancements in artificial intelligence happened on hardware platforms that I manage. [Deepmind](https://deepmind.com/) and many other leading AI companies use these systems.
 
 
-I have been in several teams responsible for systems such as [Borg](https://research.google/pubs/pub43438/) ([2](https://research.google/pubs/pub49065/)) the large-scale cluster scheduler that inspired [Kubernetes](https://research.google/pubs/pub44843/), [Monarch](https://www.youtube.com/watch?v=LlvJdK1xsl4) monitoring system ([paper](https://www.vldb.org/pvldb/vol13/p3181-adams.pdf)), and [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving?hl=en).
+I have been in several SRE teams responsible for systems such as [Borg](https://research.google/pubs/pub43438/) ([2](https://research.google/pubs/pub49065/)) the large-scale cluster scheduler that inspired [Kubernetes](https://research.google/pubs/pub44843/), [Monarch](https://www.youtube.com/watch?v=LlvJdK1xsl4) monitoring system ([paper](https://www.vldb.org/pvldb/vol13/p3181-adams.pdf)), and running a [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving?hl=en) platform.
 
 # Previously...
 
