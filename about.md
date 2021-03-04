@@ -8,7 +8,7 @@ permalink: /about/
 
 I am a software and systems engineer.
 
-This site contains my opnions. It does not reflect the points of view of my current and past employers.
+This site contains my onions. It does not reflect the points of view of my current and past employers.
 
 # SRE at Google
 
